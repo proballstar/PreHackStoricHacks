@@ -1,0 +1,14 @@
+.pt-72 {
+  padding-top: 32rem;
+}
+
+.form-control {
+  justify-content: center;
+  align-items: center;
+}
+
+.body-background {
+  background: #fff url(https://i.imgur.com/tdV3VpO.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,10 @@
+.center {
+    justify-content: center;
+    align-items: center;
+}
+.body-image {
+    background: #fff url(https://i.imgur.com/opHpANO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
